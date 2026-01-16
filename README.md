@@ -1,5 +1,8 @@
 # DQN Clássico (2013) — Flappy Bird 🐦
 
+<img width="280" height="180" alt="image" src="https://github.com/user-attachments/assets/12b683f7-affe-4c8e-95d3-626542e93251" />
+
+
 Implementação **fiel ao paper _Playing Atari with Deep Reinforcement Learning (2013)_**, aplicada ao **Flappy Bird** usando **pixels crus** e **Deep Q-Network (DQN)** em PyTorch.
 
 O objetivo principal é **entender, reproduzir e validar o DQN clássico** e estudar a otimização para melhorar o desempenho no jogo.  
